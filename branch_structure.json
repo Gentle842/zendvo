@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dev",
+    "feat/recipient-user-resolution",
+    "main",
+    "origin",
+    "prod"
+  ],
+  "parent": {
+    "dev": "main",
+    "feat/recipient-user-resolution": "main",
+    "main": null,
+    "origin": "main",
+    "prod": "main"
+  },
+  "order": [
+    "main",
+    "dev",
+    "feat/recipient-user-resolution",
+    "origin",
+    "prod"
+  ]
+}
